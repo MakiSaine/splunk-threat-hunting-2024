@@ -7,13 +7,12 @@ The work was originally part of an advanced cybersecurity exam but has since bee
 
 ## Table of Contents
 
-- Project Overview
-- Objectives
-- Tools and Techniques
-- Investigation Steps
-- Screenshots
-- Key Findings
-- Reflections
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Tools and Techniques](#tools-and-techniques)
+- [Investigation Steps](#investigation-steps)
+- [Key Findings](#key-findings)
+- [Reflections](#reflections)
 
 ---
 
