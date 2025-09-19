@@ -156,7 +156,7 @@ Finally, password data was analyzed to look for weak patterns.
 
 This investigation highlighted the importance of combining log analysis with intrusion detection data.  
 
-It also reinforced that threat hunting is iterative — each finding can lead to new queries and deeper insights.  
+It also reinforced that threat hunting is iterative, each finding can lead to new queries and deeper insights.  
 
 Understanding normal traffic patterns is key to identifying anomalies quickly and accurately.  
 
